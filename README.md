@@ -7,8 +7,9 @@ Etant donné qu'une configuration classique VueJS est une single web app (donc n
 
 # Livrables attendus
 
-- Un ou plusieurs PR sur ce repo, dans une branche avec votre nom
+- Un ou plusieurs PR sur ce repository
 - Quelques pages d'exemple avec du contenu suffisent... mais si vous souhaitez montrer vos talents de CSS sur une page... libre à vous !
 - Intégrerier vous une librairie CSS ? Si oui, comment ! 
+- Si vous deviez intégrer des appels REST à cet app (pour le login, par exemple), comment vous y prendriez-vous ?
 
-Bonus: Et si nous voulions intégrer un système de CMS, comment feriez-vous ? (On peut sortir de VueJS, et explorer d'autres solutions pertinentes dans ce cas).
+Bonus: Et si nous voulions intégrer un système de CMS, comment feriez-vous ? (On peut sortir de VueJS, et explorer d'autres solutions pertinentes dans ce cas). Ce bonus peut servir de discussion libre en fin de test.
